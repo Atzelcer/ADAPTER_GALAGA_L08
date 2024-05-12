@@ -1,0 +1,113 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FVector;
+struct FHitResult;
+#ifdef ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_generated_h
+#error "ADAPTER_GALAGA_L08Projectile.generated.h already included, missing '#pragma once' in ADAPTER_GALAGA_L08Projectile.h"
+#endif
+#define ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_generated_h
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_SPARSE_DATA
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnHit);
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnHit);
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAADAPTER_GALAGA_L08Projectile(); \
+	friend struct Z_Construct_UClass_AADAPTER_GALAGA_L08Projectile_Statics; \
+public: \
+	DECLARE_CLASS(AADAPTER_GALAGA_L08Projectile, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/ADAPTER_GALAGA_L08"), NO_API) \
+	DECLARE_SERIALIZER(AADAPTER_GALAGA_L08Projectile) \
+	static const TCHAR* StaticConfigName() {return TEXT("Game");} \
+
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_INCLASS \
+private: \
+	static void StaticRegisterNativesAADAPTER_GALAGA_L08Projectile(); \
+	friend struct Z_Construct_UClass_AADAPTER_GALAGA_L08Projectile_Statics; \
+public: \
+	DECLARE_CLASS(AADAPTER_GALAGA_L08Projectile, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/ADAPTER_GALAGA_L08"), NO_API) \
+	DECLARE_SERIALIZER(AADAPTER_GALAGA_L08Projectile) \
+	static const TCHAR* StaticConfigName() {return TEXT("Game");} \
+
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AADAPTER_GALAGA_L08Projectile(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AADAPTER_GALAGA_L08Projectile) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AADAPTER_GALAGA_L08Projectile); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AADAPTER_GALAGA_L08Projectile); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AADAPTER_GALAGA_L08Projectile(AADAPTER_GALAGA_L08Projectile&&); \
+	NO_API AADAPTER_GALAGA_L08Projectile(const AADAPTER_GALAGA_L08Projectile&); \
+public:
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AADAPTER_GALAGA_L08Projectile(AADAPTER_GALAGA_L08Projectile&&); \
+	NO_API AADAPTER_GALAGA_L08Projectile(const AADAPTER_GALAGA_L08Projectile&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AADAPTER_GALAGA_L08Projectile); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AADAPTER_GALAGA_L08Projectile); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AADAPTER_GALAGA_L08Projectile)
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__ProjectileMesh() { return STRUCT_OFFSET(AADAPTER_GALAGA_L08Projectile, ProjectileMesh); } \
+	FORCEINLINE static uint32 __PPO__ProjectileMovement() { return STRUCT_OFFSET(AADAPTER_GALAGA_L08Projectile, ProjectileMovement); }
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_12_PROLOG
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_PRIVATE_PROPERTY_OFFSET \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_SPARSE_DATA \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_RPC_WRAPPERS \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_INCLASS \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_PRIVATE_PROPERTY_OFFSET \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_SPARSE_DATA \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_INCLASS_NO_PURE_DECLS \
+	ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> ADAPTER_GALAGA_L08_API UClass* StaticClass<class AADAPTER_GALAGA_L08Projectile>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID ADAPTER_GALAGA_L08_Source_ADAPTER_GALAGA_L08_ADAPTER_GALAGA_L08Projectile_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

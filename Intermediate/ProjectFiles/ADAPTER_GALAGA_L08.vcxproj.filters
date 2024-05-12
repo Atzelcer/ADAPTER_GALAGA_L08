@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ADAPTER_GALAGA_L08.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A1771F86-BC8C-423A-8C7A-ED2D5ABED641}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ADAPTER_GALAGA_L08.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ADAPTER_GALAGA_L08Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A51606CE-E818-4B37-81A5-D47170439277}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ADAPTER_GALAGA_L08">
+      <UniqueIdentifier>{43EBE887-ACDD-455B-80FB-36236D575ECA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\Adaptador_Torreta.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\Adaptador_Torreta.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08.Build.cs">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08GameMode.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08GameMode.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08Pawn.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08Pawn.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08Projectile.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08Projectile.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\PROYECTIL_LASER.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\PROYECTIL_LASER.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\TORRETA_ESPACIAL.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\TORRETA_ESPACIAL.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ADAPTER_GALAGA_L08\Torreta_INT.cpp">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ADAPTER_GALAGA_L08\Torreta_INT.h">
+      <Filter>Source\ADAPTER_GALAGA_L08</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

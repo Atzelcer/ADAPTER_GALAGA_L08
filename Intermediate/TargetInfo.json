@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ADAPTER_GALAGA_L08",
+			"Path": "D:\\UNREAL_ENGINGE_4.27\\ADAPTER_GALAGA_L08\\Source\\ADAPTER_GALAGA_L08.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ADAPTER_GALAGA_L08Editor",
+			"Path": "D:\\UNREAL_ENGINGE_4.27\\ADAPTER_GALAGA_L08\\Source\\ADAPTER_GALAGA_L08Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

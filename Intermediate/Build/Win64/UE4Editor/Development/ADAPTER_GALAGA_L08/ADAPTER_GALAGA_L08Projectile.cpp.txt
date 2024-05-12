@@ -1,0 +1,7 @@
+D:\UNREAL_ENGINGE_4.27\ADAPTER_GALAGA_L08\Intermediate\Build\Win64\UE4Editor\Development\ADAPTER_GALAGA_L08\Definitions.ADAPTER_GALAGA_L08.h
+D:\UNREAL_ENGINGE_4.27\ADAPTER_GALAGA_L08\Source\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08Projectile.h
+D:\UNREAL_ENGINGE_4.27\ADAPTER_GALAGA_L08\Intermediate\Build\Win64\UE4Editor\Inc\ADAPTER_GALAGA_L08\ADAPTER_GALAGA_L08Projectile.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

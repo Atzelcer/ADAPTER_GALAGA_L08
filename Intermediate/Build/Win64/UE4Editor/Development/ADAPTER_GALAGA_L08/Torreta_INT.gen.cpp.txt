@@ -1,0 +1,5 @@
+D:\UNREAL_ENGINGE_4.27\ADAPTER_GALAGA_L08\Intermediate\Build\Win64\UE4Editor\Development\ADAPTER_GALAGA_L08\Definitions.ADAPTER_GALAGA_L08.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UNREAL_ENGINGE_4.27\ADAPTER_GALAGA_L08\Source\ADAPTER_GALAGA_L08/Torreta_INT.h
+D:\UNREAL_ENGINGE_4.27\ADAPTER_GALAGA_L08\Intermediate\Build\Win64\UE4Editor\Inc\ADAPTER_GALAGA_L08\Torreta_INT.generated.h
